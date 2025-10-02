@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Models (too large for GitHub)
+*.keras
+*.h5
+*.pkl
+
+# Dataset (too large)
+chest_xray/
+*.zip
+
+# Results
+*.png
+*.jpg
+*.jpeg
+training_history.png
+predictions_sample.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+.kaggle/
+kaggle.json
+
+# Logs
+*.log6

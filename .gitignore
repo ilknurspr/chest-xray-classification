@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Models
+*.keras
+*.h5
+
+# Dataset
+chest_xray/
+*.zip
+
+# Results
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+
+# Kaggle
+.kaggle/
